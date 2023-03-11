@@ -1,0 +1,26 @@
+{
+  "name": "learningnodejs",
+  "version": "1.0.0",
+  "description": "- NodeJS, ExpressJS, Typescript, MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hochituong7/ExpressMongoDB.git"
+  },
+  "author": "tuonghc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hochituong7/ExpressMongoDB/issues"
+  },
+  "homepage": "https://github.com/hochituong7/ExpressMongoDB#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
